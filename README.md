@@ -140,11 +140,6 @@ If I had more time, I'd add:
 - Email/Slack notifications for high-value touchpoints
 - More sophisticated attribution models (first-touch, last-touch, multi-touch)
 
-## 📝 Development Timeline
-
-- **Day 1:** Backend API + Database (6 hours)
-- **Day 2:** Frontend + Deployment (5 hours)
-- **Total:** ~11 hours over one weekend
 
 ## 👤 Author
 
